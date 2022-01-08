@@ -13,7 +13,6 @@ export class ProductsService {
         this.products.push(newProduct);
 
         return newProduct;
-
     }
 
     getProducts(){
